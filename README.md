@@ -49,4 +49,4 @@ Siga os passos abaixo para rodar o DocString Genius localmente.
     GOOGLE_API_KEY="CHAVE_AQUI"
 5. Execute a aplicação: No seu terminal, rode o seguinte comando:
     streamlit run DocString.py
-A aplicação será aberta automaticamente no seu navegador. Então só seguir as instruções em tela.
+6. A aplicação será aberta automaticamente no seu navegador. Então só seguir as instruções em tela.
